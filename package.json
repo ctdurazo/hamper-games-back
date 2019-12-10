@@ -1,0 +1,10 @@
+{
+    "name": "hamper-games-api",
+    "version": "0.0.1",
+    "description": "Backend for hamper-games",
+    "dependencies": {
+        "express": "^4.17.1",
+        "mongodb": "^3.4.0",
+        "socket.io": "^2.3.0"
+    }
+}
